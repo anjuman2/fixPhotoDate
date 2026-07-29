@@ -1,3 +1,12 @@
+<!-- Run this in the native linux mode on the DELL XPS13 laptop under //wsl.localhost/Ubuntu/home/amirchandani/projects/fixPhotoDatesAI/
+
+The repository is on git hub at https://www.github.com/anjuman2/fixPhotoDate
+
+Run it under VSCode with WSL-Ubuntu extension
+
+I am copying the entire fixPhotoDatesAI folder from linux filesystem over to OneDrive/projects/fixPhotoDatesAI just for visibility but DO NOT TRY TO RUN THIS FROM THERE!
+>
+
 # Photo Date Recovery Pipeline
 
 Recovers the camera-printed date stamp from ~2,000 scanned 35mm film negatives
